@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
-<h3 align="center">A full-stack university student from Canada</h3>
+<h3 align="center">Computer Science Student | Aspiring Full-Stack Developer</h3>
 
 - 🔭 I’m currently working on [a CV generator app](https://github.com/Murfew/CV_Application)
 
