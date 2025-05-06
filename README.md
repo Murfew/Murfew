@@ -4,6 +4,8 @@
   I'm a <strong>Computer Science student</strong> passionate about <strong>full-stack web development</strong>.
 </p>
 
+<br>
+
 <h2 align="left">🧠 About Me</h2>
 
 <p align="left">🔭 I’m currently working on a <strong>React résumé generator app</strong></p>
@@ -13,6 +15,8 @@
 <p align="left">🎯 <strong>Goal:</strong> Build web apps that shine in <strong>design</strong>, <strong>functionality</strong>, and <strong>user experience</strong></p>
 
 <p align="left">🏋️‍♂️ <strong>Fun fact:</strong> I'm a personal trainer and aspiring natural bodybuilder</p>
+
+<br>
 
 <h2 align="left">🛠️ Tech Stack</h2>
 
@@ -33,6 +37,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
 </div>
+
+<br>
 
 <h2 align="left">📫 Let's Connect</h2>
 
