@@ -6,12 +6,13 @@
 
 <h2 align="left">🧠 About Me</h2>
 
-<p align="left">
-  🔭 I’m currently working on a <strong>React résumé generator app</strong><br>
-  📚 I'm learning <strong>React</strong> through <em>The Odin Project</em><br>
-  🎯 <strong>Goal:</strong> Build web apps that shine in <strong>design</strong>, <strong>functionality</strong>, and <strong>user experience</strong><br>
-  🏋️‍♂️ <strong>Fun fact:</strong> I'm a personal trainer and aspiring natural bodybuilder
-</p>
+<p align="left">🔭 I’m currently working on a <strong>React résumé generator app</strong></p>
+
+<p align="left">📚 I'm learning <strong>React</strong> through <em>The Odin Project</em></p>
+
+<p align="left">🎯 <strong>Goal:</strong> Build web apps that shine in <strong>design</strong>, <strong>functionality</strong>, and <strong>user experience</strong></p>
+
+<p align="left">🏋️‍♂️ <strong>Fun fact:</strong> I'm a personal trainer and aspiring natural bodybuilder</p>
 
 <h2 align="left">🛠️ Tech Stack</h2>
 
