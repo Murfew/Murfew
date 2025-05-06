@@ -1,19 +1,19 @@
-# Hey there! 👋 I'm Matthew
+<h1 align="left">Hey there! 👋 I'm Matthew</h1>
 
-I'm a **Computer Science student** passionate about **full-stack web development**.
+<p align="left">
+  I'm a <strong>Computer Science student</strong> passionate about <strong>full-stack web development</strong>.
+</p>
 
----
+<h2 align="left">🧠 About Me</h2>
 
-## 🧠 About Me
+<p align="left">
+  🔭 I’m currently working on a <strong>React résumé generator app</strong><br>
+  📚 I'm learning <strong>React</strong> through <em>The Odin Project</em><br>
+  🎯 <strong>Goal:</strong> Build web apps that shine in <strong>design</strong>, <strong>functionality</strong>, and <strong>user experience</strong><br>
+  🏋️‍♂️ <strong>Fun fact:</strong> I'm a personal trainer and aspiring natural bodybuilder
+</p>
 
-- 🔭 I’m currently working on a **React résumé generator app**
-- 📚 I'm learning **React** through *The Odin Project*
-- 🎯 **Goal**: Build web apps that excel in **design**, **functionality**, and **user experience**
-- 🏋️‍♂️ **Fun fact**: I'm a **personal trainer** and aspiring **natural bodybuilder**
-
----
-
-## 🛠️ Tech Stack
+<h2 align="left">🛠️ Tech Stack</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
@@ -33,9 +33,9 @@ I'm a **Computer Science student** passionate about **full-stack web development
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
 </div>
 
----
+<h2 align="left">📫 Let's Connect</h2>
 
-## 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)
-- [Email](mailto:your@email.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINK" target="_blank">LinkedIn</a> |
+  <a href="mailto:your@email.com">Email</a>
+</p>
