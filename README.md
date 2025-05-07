@@ -40,7 +40,7 @@
 
 <br>
 
-<h2 align="left">📫 Let's Connect</h2>
+<h2 align="left">📫 Let's Connect!</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR-LINK" target="_blank">LinkedIn</a> |
