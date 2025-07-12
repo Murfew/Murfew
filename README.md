@@ -8,7 +8,7 @@
 
 <h2 align="left">🧠 About Me</h2>
 
-<p align="left">🔭 I’m currently working on a <strong>memory card game</strong></p>
+<p align="left">🔭 I’m currently working on a <strong>mock shopping cart</strong></p>!
 
 <p align="left">📚 I'm learning <strong>React</strong> through <em>The Odin Project</em></p>
 
