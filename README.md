@@ -8,9 +8,9 @@
 
 <h2 align="left">🧠 About Me</h2>
 
-<p align="left">🔭 I’m currently working on a <strong>mock shopping cart</strong></p>
+<p align="left">🔭 I’m currently working on a improving my web development skill</p>
 
-<p align="left">📚 I'm learning <strong>React</strong> through <em>The Odin Project</em></p>
+<p align="left">📚 I learned the fundamentals of <strong>web development</strong> through <em>The Odin Project</em> and continue to learn <strong>modern web development</strong> through <em>Full Stack Open</em></p>
 
 <p align="left">🎯 <strong>Goal:</strong> Build web apps that shine in <strong>design</strong>, <strong>functionality</strong>, and <strong>user experience</strong></p>
 
