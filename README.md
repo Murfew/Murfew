@@ -8,7 +8,7 @@
 
 <h2 align="left">🧠 About Me</h2>
 
-<p align="left">🔭 I’m currently working on a improving my web development skill</p>
+<p align="left">🔭 I’m currently working on improving my web development skills</p>
 
 <p align="left">📚 I learned the <strong>fundamentals of web development</strong> through <em>The Odin Project</em></p>
 
