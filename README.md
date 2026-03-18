@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on completing the Full Stack Open curriculum<br>👯 I’m looking to collaborate on modern web development projects<br>🤝 I’m looking for help with building my portfolio<br>🌱 I’m currently learning CI/CD<br>💬 Ask me about the impact of AI on our future<br>⚡ Fun fact: I love the gym and everything bodybuilding
+🔭 I’m currently working on a workout logging app<br>👯 I’m looking to collaborate on modern web development projects<br>🤝 I’m looking for help with building my portfolio<br>💬 Ask me about the impact of AI on our future<br>⚡ Fun fact: I love the gym and everything bodybuilding
 
 
 ## 🌐 Socials:
