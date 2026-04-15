@@ -12,11 +12,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/Murfew" target="blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  <a href="https://github.com/Murfew" target="blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=github" height="50" />
   </a>
   <a href="https://linkedin.com/in/matthew-hurley-743514226" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
 </p>
 
