@@ -20,7 +20,6 @@
   <img src="https://skillicons.dev/icons?i=css,docker,express,git,html,java,js,jest,mongodb,mysql,nextjs,nodejs,postgres,postman,react,spring,tailwind,ts" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Murfew&show_icons=true&locale=en" alt="Murfew" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Murfew&" alt="Murfew" /></p>
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Murfew&show_icons=true&locale=en) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Murfew&) |
+|---|---|
 
