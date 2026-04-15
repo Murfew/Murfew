@@ -13,11 +13,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://github.com/Murfew" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Murfew" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/matthew-hurley-743514226" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthew-hurley-743514226" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
 </p>
 
