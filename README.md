@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Murfew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Murfew" height="30" width="40" /></a><a href="https://linkedin.com/in/matthew-hurley-743514226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthew-hurley-743514226" height="30" width="40" /></a>
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Murfew) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/matthew-hurley-743514226)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
