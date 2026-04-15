@@ -15,7 +15,6 @@
   <a href="https://github.com/Murfew" target="blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
-  &nbsp;
   <a href="https://linkedin.com/in/matthew-hurley-743514226" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
