@@ -1,14 +1,10 @@
 # Hi 👋, I'm Matthew Hurley
+### CS student at Université de Montréal · Backend developer
 
-### CS student at Université de Montréal · Full-stack web developer
-
-- 🔭 I'm currently working on **FitTrack — a full-stack fitness tracking app**
-
-- 🌱 I'm currently learning **System design, TypeScript patterns, testing with Vitest & Playwright**
-
-- 💬 Ask me about **Next.js, full-stack web dev, bodybuilding**
-
-- ⚡ Fun fact **I track my workouts and my macros with the same obsessiveness I track git commits**
+- 🔭 I'm currently working on **a portfolio of Go backend projects**
+- 🌱 I'm currently learning **Go, distributed systems, Docker & Kubernetes (k3s)**
+- 💬 Ask me about **Go, backend development, REST APIs, bodybuilding**
+- ⚡ Fun fact **I track my macros and my k8s pods with equal obsessiveness**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,8 +18,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=css,docker,express,git,html,java,js,jest,mongodb,mysql,nextjs,nodejs,postgres,postman,react,spring,tailwind,ts" />
+  <img src="https://skillicons.dev/icons?i=go,docker,kafka,redis,kubernetes,postgres,git,js,java,html,css,postman" />
 </p>
+
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=Murfew&show_icons=true&locale=en" />&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=Murfew&" />
 </div>
