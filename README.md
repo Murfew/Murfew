@@ -18,7 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,docker,kafka,redis,kubernetes,postgres,git,js,java,html,css,postman" />
+  <img src="https://skillicons.dev/icons?i=go,docker,kafka,redis,kubernetes,postgres,git,java,postman" />
 </p>
 
 <div>
