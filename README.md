@@ -1,26 +1,24 @@
-# Hi 👋, I'm Matthew Hurley
-### CS student at Université de Montréal · Backend developer
+# Hey, I'm Matthew 👋
 
-- 🔭 I'm currently working on **a portfolio of Go backend projects**
-- 🌱 I'm currently learning **Go, distributed systems, Docker & Kubernetes (k3s)**
-- 💬 Ask me about **Go, backend development, REST APIs, bodybuilding**
-- ⚡ Fun fact **I track my macros and my k8s pods with equal obsessiveness**
+Full-stack developer who likes building the whole thing — schema to screen.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://github.com/Murfew" target="blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=github" height="50" />
-  </a>
-  <a href="https://linkedin.com/in/matthew-hurley-743514226" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-  </a>
-</p>
+## 🛠️ Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go,docker,kafka,redis,kubernetes,postgres,git,java,postman" />
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=Murfew&show_icons=true&locale=en" />&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=Murfew&" />
-</div>
+## 👨‍💻 About
+
+CS student at Université de Montréal (grad Aug 2027), three internships deep. I care about the parts of a product people actually feel — fast, clean, finished. Most of what's here is me chasing that: shipping complete things rather than collecting half-built ones.
+
+When I'm not building, I'm probably refining something that already works (a habit I'm learning to aim, not suppress).
+
+- 🌱 Building right now: habit tracker
+- 🛠️ Default toolkit: Next.js + TypeScript, Postgres + Prisma, deployed on Vercel
+- 🌐 EN / FR
+- 📬 Open to new-grad software roles
