@@ -1,6 +1,5 @@
-# Hey, I'm Matthew 👋
+# Matthew Hurley
 
-CS student at Université de Montréal (graduating Aug 2027), two internships at **GoTo** and a third at **Flexspring** starting in January. 
+Backend and AI engineering, mostly in Python. Building an AI chess coach that reviews my Chess.com games with Claude.
 
-- 🌐 EN / FR
-- 📬 Open to new-grad software roles, Montreal or remote
+Looking for new-grad roles in 2027 · [LinkedIn](https://www.linkedin.com/in/matthew-hurley-743514226) · [Email](mailto:matthew.hurley953@gmail.com)
