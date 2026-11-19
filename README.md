@@ -1,5 +1,3 @@
-# Matthew Hurley
+I build backend services and AI tools, mostly in Python. Right now I'm building an AI chess coach that reviews my Chess.com games with Claude and tells me what to work on.
 
-Backend and AI engineering, mostly in Python. Building an AI chess coach that reviews my Chess.com games with Claude.
-
-Looking for new-grad roles in 2027 · [LinkedIn](https://www.linkedin.com/in/matthew-hurley-743514226) · [Email](mailto:matthew.hurley953@gmail.com)
+Looking for new-grad backend and AI engineering roles in 2027 · [LinkedIn](…) · [Email](…)
